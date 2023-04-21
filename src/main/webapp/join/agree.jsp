@@ -26,7 +26,7 @@
             <li class="nav-item">
                 <a href="/intro.jsp" class="nav-link">프로젝트소개</a></li>
             <li class="nav-item">
-                <a href="/join/agree.jsp" class="nav-link">회원가입</a></li>
+                <a href="/join/agree.jsp" class="nav-link active disabled">회원가입</a></li>
             <li class="nav-item">
                 <a href="/board/list.jsp" class="nav-link">게시판</a></li>
             <li class="nav-item">
