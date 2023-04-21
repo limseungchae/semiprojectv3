@@ -46,7 +46,11 @@
                    <img src="img/project.png" class="img-fluid">
                </div>
             </div>
-            <div class="row"></div>
+            <div class="row">
+                <div class="col-8 offset-2 text-center p-3"><p>Quisque id efficitur urna. Vestibulum hendrerit arcu at sem pellentesque placerat. Suspendisse mauris tortor, pulvinar a nisi eu, ornare venenatis enim. Curabitur ornare augue vitae vulputate tristique. Duis sit amet aliquet nisi, et vehicula sem. Vestibulum dapibus blandit varius. Nullam vitae interdum arcu. Proin nec tincidunt justo. Vestibulum ultricies tortor sit amet congue suscipit. Vivamus mauris nibh, congue sed volutpat sed, semper nec risus. Donec accumsan ut enim et congue. Integer leo turpis, consectetur sit amet bibendum quis, luctus vitae risus. Sed viverra tortor et leo viverra pellentesque. Cras ac neque nec ipsum iaculis tincidunt in non massa.</p>
+                <div><button class="btn btn-success">지금 바로 시작하기</button></div>
+                </div>
+            </div>
             <div class="row"></div>
             <div class="row"></div>
         </div>
