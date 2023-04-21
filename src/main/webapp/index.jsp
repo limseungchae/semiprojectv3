@@ -36,7 +36,20 @@
             </ul>
         </nav>
 
-        <div id="main"></div>
+        <div id="main">
+            <div class="row">
+            <div class="col">
+                <h1 class="disabled text-center p-2">走機密 PROJECT 補完計劃</h1>
+                <p class="disabled text-center">초기밀 PROJECT 보안계획</p>
+            </div>
+               <div class="col-8 offset-2">
+                   <img src="img/project.png" class="img-fluid">
+               </div>
+            </div>
+            <div class="row"></div>
+            <div class="row"></div>
+            <div class="row"></div>
+        </div>
 
         <footer>
             <h6 class="col text-end bg-dark bg-opacity-10 p-3">
