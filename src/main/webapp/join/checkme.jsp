@@ -48,7 +48,7 @@
                 <li class="breadcrumb-item active">
                     <button type="button" disabled
                             class="btn btn-success">이용약관</button></li>
-                <li class="breadcrumb-item">
+                <li class="breadcrumb-item active">
                     <button type="button" disabled
                             class="btn btn-success">실명확인</button></li>
                 <li class="breadcrumb-item">
