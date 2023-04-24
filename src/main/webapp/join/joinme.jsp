@@ -228,6 +228,33 @@
         </div>
 
         <!-- 우편번호 폼 모달 -->
+        <div id="zipmodal" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">우편번호 찾기</div>
+                    <div class="modal-body">
+                        <form class="zipfrm" id="zipfrm">
+                            <div class="row">
+                                <label class="col-3 form-label text-end" for="dong">
+                                    검색하실 주소의<br> 동이름을 입력하세요.</label>
+                                <div class="col-4">
+                                    <input type="text" name="dong" id="dong"
+                                           class="form-control border-primary"> </div>
+                                <div class="col-3">
+                                    <button type="button" class="btn btn-primary" id="findzipbtn">
+                                        <i class="fas fa-search"></i>검색하기</button>
+                                </div>
+                                <div class="row"></div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger" id="sendzip">
+                            <i class="fas fa-check-sgyare"></i> 선택하고 닫기</button>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <script src="https://www.google.com/recaptcha/api.js"></script>
     </div>
